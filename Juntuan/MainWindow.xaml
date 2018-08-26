@@ -15,7 +15,7 @@
         <Label Content="Label" HorizontalAlignment="Left" Margin="183,206,0,0" VerticalAlignment="Top" Name="lbAddress" FontSize="22" Grid.Column="1"/>
         <Label Content="Label" HorizontalAlignment="Left" Margin="182.897,46,0,0" VerticalAlignment="Top" FontSize="18" Name="lblToday" Grid.Column="1"/>
         <Image HorizontalAlignment="Left" Height="315" Margin="33,46,0,0" VerticalAlignment="Top" Width="327" Source="images/148878325781132.png" Grid.ColumnSpan="2"/>
-        <Button Content="了解" HorizontalAlignment="Left" Margin="289.897,292,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Button_Click" Grid.Column="1"/>
+        <Button Content="了解了，关闭窗口" HorizontalAlignment="Left" Margin="183,296,0,0" VerticalAlignment="Top" Width="362" Height="37" Click="Button_Click" Grid.Column="1"/>
 
     </Grid>
 </Window>
